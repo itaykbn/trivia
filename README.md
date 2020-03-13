@@ -1,2 +1,2 @@
-# trivia
+# Math and History trivia game
 
